@@ -33,6 +33,9 @@ section.todo-outer {
     .txt-rotate{
         font-size: 18px;
     }
+	.todo-inner {
+	max-height:400px;
+	}
 }
 
 .container{
